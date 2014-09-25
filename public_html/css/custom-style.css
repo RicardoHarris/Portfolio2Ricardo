@@ -29,3 +29,13 @@ div {
    text-decoration: none;
    font-size: 20px;
 }
+
+.jumbotron {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvBZXLt0zYOEw2Q9GUgpFNQA99sl_GzDuxoNX3KF-AZJuFAH5Q);
+    background-size: contain;
+}
+
+body{
+    background-image: url(http://img1.wikia.nocookie.net/__cb20131226033736/villains/images/c/c0/Infamous-kessler.jpg);
+    color: whitesmoke;
+}
