@@ -4,38 +4,38 @@ div {
     padding: 30px;
     border-color: blueviolet;
 }
-
+/*This puts a "blueviolet" border on my columns while making it 10 pixels wide with 30 pixels of padding.*/
 .container {
     border-color: black;
-    
 }
-
+/*This makes my container border black*/
 .row {
     border-color: blue;
 }
-
+/*This makes my row border blue*/
 .list-group-item {
     border: 0;
     padding-top: 30px;
     padding-bottom: 30px;
 }
-
+/*This makes my llinks 30 pixels away from eachother in padding top and bottom*/
 .uppercase {
     text-transform: uppercase;
     font-size: 38px;
 }
-
-#current-link {
+/*Changes the font to a larger form of 38 pixels*/
+.current-link {
    text-decoration: none;
    font-size: 20px;
 }
-
+/*Changes the font to a larger form of 20 pixels as long as it's a link*/
 .jumbotron {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvBZXLt0zYOEw2Q9GUgpFNQA99sl_GzDuxoNX3KF-AZJuFAH5Q);
     background-size: contain;
 }
-
+/*Gives the bootstrap feature "jumbotron" a containing background image of SPAAAAAAACE!!!!*/
 body{
     background-image: url(http://img1.wikia.nocookie.net/__cb20131226033736/villains/images/c/c0/Infamous-kessler.jpg);
     color: whitesmoke;
 }
+/*Gives the body a background of Kessler from Infamous and a text color called "whitesmoke"*/
