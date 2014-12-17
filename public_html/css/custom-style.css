@@ -35,7 +35,8 @@ div {
 }
 /*Gives the bootstrap feature "jumbotron" a containing background image of SPAAAAAAACE!!!!*/
 body{
-    background-image: url(http://img1.wikia.nocookie.net/__cb20131226033736/villains/images/c/c0/Infamous-kessler.jpg);
+    background-image: url(http://images.wikia.com/infamous/images/archive/4/4a/20120610170740!Kessler-Smirking.png);
     color: whitesmoke;
+    background-size: contain;
 }
 /*Gives the body a background of Kessler from Infamous and a text color called "whitesmoke"*/
