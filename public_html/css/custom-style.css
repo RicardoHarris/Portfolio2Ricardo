@@ -3,7 +3,7 @@ div {
     padding: 30px;
     border-color: black;
 }
-/*This puts a "blueviolet" border on my columns while making it 10 pixels wide with 30 pixels of padding.*/
+/*This puts a "black" border on my columns while making it 10 pixels wide with 30 pixels of padding.*/
 .container {
     border-color: black;
 }
@@ -11,7 +11,7 @@ div {
 .row {
     border-color: black;
 }
-/*This makes my row border blue*/
+/*This makes my row border black*/
 .list-group-item {
     border: 0;
     padding-top: 30px;
@@ -24,8 +24,8 @@ div {
 }
 /*Changes the font to a larger form of 38 pixels*/
 .current-link {
-   text-decoration: none;
-   font-size: 20px;
+    text-decoration: none;
+    font-size: 20px;
 }
 /*Changes the font to a larger form of 20 pixels as long as it's a link*/
 .jumbotron {
