@@ -21,11 +21,12 @@ $("document").ready(function() {
         $(this).animate({paddingLeft: 0}, 400);
     });
     //Link nudging system
+    
 
     $("#bio").css("color", "white");
     //Sets the text color to white
 
-    $("div").css("border", "3px solid blue");
+    $("div:first").css("border", "3px solid blue");
     //Creates a 3 pixel, solid, blue border around all divs
 
     $(".uppercase").css("text-transform", "uppercase");
@@ -43,17 +44,20 @@ $("document").ready(function() {
     $(".bleh").css("color", "'whitesmoke");
     //Sets the text color in class "bleh" to "whitesmoke"
 
-    $(".flip-container").css("color", "grey");
-    //Sets the text color in the flip-container class to grey
-
-    $(".flip-container").css("border", "none");
-    //Puts no border around the flip-container class
+    $(".front").css("color", "cyan");
+    //Puts no border around the front class
+    
+    $(".back").css("color", "cyan");
+    //Puts no border around the back class
 
     $("#jq").css("color", "white");
     //Sets the text color in the jq id to white
 
     $("body").css("text-align", "center");
     //Aligns all text to the center of the site
+
+    $(".flip-container").css("text-align", "center");
+    //Aligns all text in the flip-container class to the center of the site
 
     $('p:first').css("color", "whitesmoke");
     //Sets the text color of the first paragraph to "whitesmoke"
