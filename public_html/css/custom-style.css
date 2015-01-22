@@ -29,12 +29,12 @@ div {
 }
 /*Changes the font to a larger form of 20 pixels as long as it's a link*/
 .jumbotron {
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvBZXLt0zYOEw2Q9GUgpFNQA99sl_GzDuxoNX3KF-AZJuFAH5Q);
+    background-image: url();
     background-size: contain;
 }
 /*Gives the bootstrap feature "jumbotron" a containing background image of SPAAAAAAACE!!!!*/
 body{
-    background-image: url(http://images.wikia.com/infamous/images/archive/4/4a/20120610170740!Kessler-Smirking.png);
+    background-image: url();
     color: grey;
     background-size: contain;
 }
